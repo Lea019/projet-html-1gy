@@ -1,18 +1,21 @@
 .darkblue {
-    color: rgb(21, 120, 143);
+    color: rgb(14, 80, 95);
 }
 
 .blue {
-    color: rgb(28, 160, 200);
+    color: rgb(48, 181, 221);
 }
 
-.pink{
-    color: darksalmon;
+.mediumblue {
+    color:rgb(62, 156,180)
+}
+.mediumdarkblue{
+    color: rgb(32, 128, 141);
 }
 
 
 img {
-    width: auto;
+    width: 50rem;
     margin-left: auto ;
     margin-right: auto;
 }
