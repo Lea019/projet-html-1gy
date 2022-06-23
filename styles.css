@@ -1,5 +1,5 @@
 .darkblue {
-    color: rgb(14, 80, 95);
+    color: rgb(19, 95, 18);
 }
 
 .blue {
@@ -14,7 +14,7 @@
 }
 
 .clearblue {
-    color: rgb(0, 200, 150);
+    color: rgb(48,181, 221);
 }
 
 .darkdarkblue {
@@ -28,5 +28,12 @@
 img {
     width: 50rem;
     margin-left: auto ;
+    margin-right: auto;
+}
+
+#content {
+    border: dotted 1rem;
+    text-align: center;
+    margin-left: auto;
     margin-right: auto;
 }
