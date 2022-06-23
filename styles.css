@@ -21,6 +21,10 @@
     color: rgb(14, 40, 55);
 }
 
+.black {
+    color: black;
+}
+
 img {
     width: 50rem;
     margin-left: auto ;
